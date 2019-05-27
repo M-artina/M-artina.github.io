@@ -1,0 +1,18 @@
+body {
+	font-family: Times New Roman;
+	margin: 50px;
+}
+
+h1, h2 {
+	color: #FF335E;
+	font-style: italic;
+	font-size: 20px;
+	padding-left: 20px;
+}
+
+p {
+	font-size: 15px;
+	padding-left: 30px;
+}
+	
+	
