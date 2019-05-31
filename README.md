@@ -1,6 +1,6 @@
 # M-artina.github.io
 
-This is my personal page. It is divided into 2 **sections**: 
+This is my ***personal page***. It is divided into 2 **sections**: 
 - About me
 - Skills and tools 
 ## About me
